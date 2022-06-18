@@ -4,7 +4,7 @@
 
   Cardápio virtual para uma açaíteria criado com React, Typescript, html , css e sass.
 
-  
+  <p ><img  src="https://cdn.discordapp.com/attachments/959617161721184280/987857399085957151/Git.jpg" width="70%" alt="imagem" >
 
   <p>
     <img  alt="Language Top"  src="https://img.shields.io/github/languages/top/Patricia-Santos/Acaizeiro">
