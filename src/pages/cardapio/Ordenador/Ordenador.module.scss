@@ -17,7 +17,7 @@
   padding: 0 40px;
   position: relative;
   &--ativo {
-    background-color: $blue;
+    background-color: #4d004d;
     color: white;
   }
   &__options {
@@ -43,7 +43,7 @@
     width: inherit;
     &:hover,
     &--ativo {
-      background-color: $blue;
+      background-color: #4d004d;
       cursor: pointer;
       color: white;
     }
