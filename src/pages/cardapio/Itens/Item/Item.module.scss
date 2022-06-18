@@ -1,10 +1,9 @@
 @import "styles/variaveis";
 @import "styles/breakpoints";
 
-$tradicional: #d73b3b;
-$barca: #30201e;
-$outros: #e6c864;
-
+$tradicional: #4d004d;
+$barca: #4d004d;
+$outros: #4d004d;
 
 .item {
   display: flex;
@@ -81,6 +80,7 @@ $outros: #e6c864;
     }
     &__outros {
       background-color: $outros;
+      color: white;
     }
   }
   &__porcao,
@@ -93,7 +93,7 @@ $outros: #e6c864;
     justify-content: center;
   }
   &__valor {
-    color: $red;
+    color: #248f24;
     font-size: 1.7rem;
   }
 }
