@@ -1,0 +1,106 @@
+[
+    {
+      "title": "Açaí - Pequeno",
+      "description": "1 adicional + 1 cobertura",
+      "photo": "/assets/escolhas/tradicional_pequeno.jpg",
+      "size": 200,
+      "serving": 1,
+      "price": 7.0,
+      "id": 1,
+      "category": {
+        "id": 1,
+        "label": "Tradicional"
+      }
+    },
+    {
+      "title": "Açaí - Médio",
+      "description": "2 adicionais + 1 cobertura",
+      "photo": "/assets/escolhas/tradicional_medio.jpg",
+      "size": 400,
+      "serving": 1,
+      "price": 9.0,
+      "id": 1,
+      "category": {
+        "id": 1,
+        "label": "Tradicional"
+      }
+    },
+    {
+      "title": "Açaí - Grande",
+      "description": "3 adicionais + 1 cobertura",
+      "photo": "/assets/escolhas/tradicional_grande.jpg",
+      "size": 500,
+      "serving": 2,
+      "price": 13.0,
+      "id": 2,
+      "category": {
+        "id": 1,
+        "label": "Tradicional"
+      }
+    },
+    {
+      "title": "Barca - Pequena",
+      "description": "",
+      "photo": "",
+      "size": 450,
+      "serving": 1,
+      "price": 20.0,
+      "id": 4,
+      "category": {
+        "id": 2,
+        "label": "Barca"
+      }
+    },
+    {
+      "title": "Barca - Média",
+      "description": "",
+      "photo": "",
+      "size": 550,
+      "serving": 2,
+      "price": 30.0,
+      "id": 5,
+      "category": {
+        "id": 2,
+        "label": "Barca"
+      }
+    },
+    {
+      "title": "Barca - Grande",
+      "description": "",
+      "photo": "",
+      "size": 550,
+      "serving": 2,
+      "price": 40.0,
+      "id": 5,
+      "category": {
+        "id": 2,
+        "label": "Barca"
+      }
+    },
+    {
+      "title": "Taça Dona Maria",
+      "description": "",
+      "photo": "",
+      "size": 850,
+      "serving": 3,
+      "price": 20.0,
+      "id": 6,
+      "category": {
+        "id": 3,
+        "label": "Outros"
+      }
+    },
+    {
+      "title": "Taça Palhaço",
+      "description": "",
+      "photo": "",
+      "size": 740,
+      "serving": 3,
+      "price": 12.0,
+      "id": 9,
+      "category": {
+        "id": 3,
+        "label": "Outros"
+      }
+    }
+  ]

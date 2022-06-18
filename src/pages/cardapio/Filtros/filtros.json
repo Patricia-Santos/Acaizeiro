@@ -1,14 +1,14 @@
 [
     {
-      "label": "Batido",
+      "label": "Tradicional",
       "id": 1
     },
     {
-      "label": "No copo",
+      "label": "Barca",
       "id": 2
     },
     {
-      "label": "Na tigela",
+      "label": "Outros",
       "id": 3
     }
 ]
