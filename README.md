@@ -14,6 +14,11 @@
   </p>
   
   <br> 
+  
+  🧩 Você pode acessar essa aplicação por: <br>
+  https://acaizeiro.vercel.app/
+  
+  <br>
 
   🤖 TECNOLOGIAS:
   
